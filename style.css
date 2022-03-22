@@ -1,0 +1,14 @@
+.italic{
+    font-style: italic;
+}
+.name{
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    border-style: double;
+}
+body{
+    background-color: black;
+}
